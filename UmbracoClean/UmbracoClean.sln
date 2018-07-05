@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoClean", "UmbracoClean\UmbracoClean.csproj", "{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Live|Any CPU = Live|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.Live|Any CPU.ActiveCfg = Live|Any CPU
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.Live|Any CPU.Build.0 = Live|Any CPU
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{5887CD75-9CFF-49D7-85F3-99D7A2AD81BD}.UAT|Any CPU.Build.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CDEF90-CC15-4D89-91CB-899F99FF3AE4}
+	EndGlobalSection
+EndGlobal
